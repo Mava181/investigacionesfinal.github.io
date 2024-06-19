@@ -1,0 +1,131 @@
+
+h1 {
+    color: #F16529;
+    font-size: 2em;
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: white;
+    margin-top: 60px;
+    padding: 10px;
+    background-color: #599596;
+
+}
+
+p {
+    font-size: 1.1em;
+
+}
+
+h3 {
+    font-size: 1.4em;
+    color: #F16529;
+    margin-top: 35px;
+
+}
+
+h4 {
+    font-size: 1.4em;
+    padding-top: 10px;
+    color: rgb(129, 116, 116);
+    margin: 0px;
+
+}
+
+
+.contenido {
+    padding: 5px 15px;
+    width: 88%;
+    margin: 50px auto;
+    padding-bottom: 60px;
+
+   
+}
+
+
+main {
+    margin: 0 auto;
+}
+
+footer {
+    width: 100%;
+    padding: 3px;
+    text-align: center;
+    background-color: #F16529;
+    color: white;
+    height: 70px;
+    bottom: 0px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 6px 20px;
+    background-color: #F16529;
+    height: 130px;
+    position: relative;
+}
+
+.logo {
+    height: 100%;
+}
+
+.logo img {
+    height: 100%;
+    border-radius: 50%;
+}
+
+.barra nav a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.barra nav a:hover {
+    text-decoration: underline;
+}
+
+.barra nav ul {
+    list-style-type: none;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.barra nav li {
+    font-size: 1.19em;
+    margin-left: 40px;
+    line-height: 35px;
+}
+
+body {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 40px;
+
+}
+ 
+ .imgInicio{
+    text-align: center;
+} 
+.imgInicio img {
+    width: 740px;
+}
+
+.imagenInicio {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.imagenInicio img {
+    width: 1000px;
+}
+
+.contenido img{
+    border-radius: 5%;
+
+}
+
